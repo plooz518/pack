@@ -7,7 +7,7 @@ Fork Deploy is highly recommended
 
 ## اهـلا بـك
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mustafasa1/pack)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/plooz518/pack)
 
 ## شكـرا لكـم 
 
